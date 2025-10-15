@@ -1,0 +1,41 @@
+name: 🧠 Auto Update Featured Projects
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch recent public repos
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          name: project-updates
+          feed_list: "https://api.github.com/users/trinnode/repos?per_page=8&sort=updated"
+          template: |
+            <div align="center">
+              <table>
+                $for(item in feed)$
+                <tr>
+                  <td align="center">
+                    <a href="$item.html_url$" target="_blank">
+                      <img src="https://github-readme-stats.vercel.app/api/pin/?username=trinnode&repo=$item.name$&theme=tokyonight&hide_border=true" width="280"/>
+                    </a>
+                    <br/><b>$item.name$</b><br/>
+                    <sub>$item.description$</sub>
+                    <br/><i>🛠 Updated: $item.updated_at$</i>
+                  </td>
+                </tr>
+                $endfor$
+              </table>
+            </div>
+          commit_message: "🧠 Auto-Updated project showcase"
+          max_post_count: 8
+          committer_username: "github-actions"
+          committer_email: "action@github.com"
