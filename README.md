@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=trinnode&color=2E9EF7&style=flat-square&label=Profile+Views)
+[![Profile Views](https://visitcount.itsvg.in/api?id=trinnode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -74,7 +74,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=trinnode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trinnode&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FFA500&currStreakLabel=2E9EF7" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=trinnode&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FFA500&currStreakLabel=2E9EF7" alt="GitHub Streak" width="49%" />
 
 </div>
 
