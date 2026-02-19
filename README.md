@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Official-zkAudit/zkaudit/pull/1) in [Official-zkAudit/zkaudit](https://github.com/Official-zkAudit/zkaudit)
+1. 🗣 Commented on [#19](https://github.com/Navin-xmr/navin-frontend/issues/19#issuecomment-3929094549) in [Navin-xmr/navin-frontend](https://github.com/Navin-xmr/navin-frontend)
 <!--END_SECTION:activity-->
 
 ---
