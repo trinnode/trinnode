@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/Ogstevyn/payeasy/issues/172#issuecomment-3933075402) in [Ogstevyn/payeasy](https://github.com/Ogstevyn/payeasy)
+1. 🗣 Commented on [#8](https://github.com/BETAIL-BOYS/TradeFlow-API/issues/8#issuecomment-3936085973) in [BETAIL-BOYS/TradeFlow-API](https://github.com/BETAIL-BOYS/TradeFlow-API)
 <!--END_SECTION:activity-->
 
 ---
