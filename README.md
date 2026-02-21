@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/BETAIL-BOYS/TradeFlow-API/issues/8#issuecomment-3936085973) in [BETAIL-BOYS/TradeFlow-API](https://github.com/BETAIL-BOYS/TradeFlow-API)
+1. 🗣 Commented on [#173](https://github.com/caxtonacollins/chioma/issues/173#issuecomment-3937282721) in [caxtonacollins/chioma](https://github.com/caxtonacollins/chioma)
 <!--END_SECTION:activity-->
 
 ---
