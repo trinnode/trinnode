@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/caxtonacollins/chioma/issues/173#issuecomment-3937282721) in [caxtonacollins/chioma](https://github.com/caxtonacollins/chioma)
+1. 🗣 Commented on [#81](https://github.com/Gildado/PayD/pull/81#issuecomment-3945376133) in [Gildado/PayD](https://github.com/Gildado/PayD)
 <!--END_SECTION:activity-->
 
 ---
