@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Cylo-Traders/Agrocylo-Global/issues/10#issuecomment-3946989610) in [Cylo-Traders/Agrocylo-Global](https://github.com/Cylo-Traders/Agrocylo-Global)
+1. 🗣 Commented on [#109](https://github.com/Soroban-Cookbook/Soroban-Cookbook-/issues/109#issuecomment-3953982528) in [Soroban-Cookbook/Soroban-Cookbook-](https://github.com/Soroban-Cookbook/Soroban-Cookbook-)
 <!--END_SECTION:activity-->
 
 ---
