@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/Stellar-Teye/Teye-Contracts/pull/215) in [Stellar-Teye/Teye-Contracts](https://github.com/Stellar-Teye/Teye-Contracts)
+1. 🎉 Merged PR [#89](https://github.com/CoralSwap-Finance/coralswap-sdk/pull/89) in [CoralSwap-Finance/coralswap-sdk](https://github.com/CoralSwap-Finance/coralswap-sdk)
 <!--END_SECTION:activity-->
 
 ---
