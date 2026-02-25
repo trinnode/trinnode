@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/Soroban-Cookbook/Soroban-Cookbook-/issues/109#issuecomment-3953982528) in [Soroban-Cookbook/Soroban-Cookbook-](https://github.com/Soroban-Cookbook/Soroban-Cookbook-)
+1. 🗣 Commented on [#73](https://github.com/CoralSwap-Finance/coralswap-sdk/issues/73#issuecomment-3954921823) in [CoralSwap-Finance/coralswap-sdk](https://github.com/CoralSwap-Finance/coralswap-sdk)
 <!--END_SECTION:activity-->
 
 ---
