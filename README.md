@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/CoralSwap-Finance/coralswap-sdk/pull/89) in [CoralSwap-Finance/coralswap-sdk](https://github.com/CoralSwap-Finance/coralswap-sdk)
+1. 🗣 Commented on [#5](https://github.com/amina69/petad-stellar/issues/5#issuecomment-3961306577) in [amina69/petad-stellar](https://github.com/amina69/petad-stellar)
 <!--END_SECTION:activity-->
 
 ---
