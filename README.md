@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com/CoralSwap-Finance/coralswap-sdk/pull/115) in [CoralSwap-Finance/coralswap-sdk](https://github.com/CoralSwap-Finance/coralswap-sdk)
+1. 🎉 Merged PR [#59](https://github.com/xqcxx/stellarguard/pull/59) in [xqcxx/stellarguard](https://github.com/xqcxx/stellarguard)
 <!--END_SECTION:activity-->
 
 ---
