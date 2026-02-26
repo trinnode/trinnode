@@ -116,7 +116,7 @@ I specialize in building secure, gas-optimized smart contracts and conducting co
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/xqcxx/stellarguard/pull/59) in [xqcxx/stellarguard](https://github.com/xqcxx/stellarguard)
+1. 🎉 Merged PR [#15](https://github.com/amina69/petad-stellar/pull/15) in [amina69/petad-stellar](https://github.com/amina69/petad-stellar)
 <!--END_SECTION:activity-->
 
 ---
