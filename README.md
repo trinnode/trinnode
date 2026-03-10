@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/amina69/petad-stellar/pull/15) in [amina69/petad-stellar](https://github.com/amina69/petad-stellar)
+1. 🎉 Merged PR [#1](https://github.com/reflex-protocol/reflex-protocol/pull/1) in [reflex-protocol/reflex-protocol](https://github.com/reflex-protocol/reflex-protocol)
 <!--END_SECTION:activity-->
 
 ---
