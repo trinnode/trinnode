@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/reflex-protocol/reflex-protocol/pull/8) in [reflex-protocol/reflex-protocol](https://github.com/reflex-protocol/reflex-protocol)
+1. 🎉 Merged PR [#7](https://github.com/VERIDA-Q/VERIDAQ/pull/7) in [VERIDA-Q/VERIDAQ](https://github.com/VERIDA-Q/VERIDAQ)
 <!--END_SECTION:activity-->
 
 ---
