@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/VERIDA-Q/VERIDAQ/pull/9) in [VERIDA-Q/VERIDAQ](https://github.com/VERIDA-Q/VERIDAQ)
+1. 🔒 Closed issue [#126](https://github.com/SorobanCrashLab/soroban-crashlab/issues/126) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
