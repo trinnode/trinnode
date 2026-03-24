@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Akanimoh12/Stellar-Tipz/issues/6#issuecomment-4114144868) in [Akanimoh12/Stellar-Tipz](https://github.com/Akanimoh12/Stellar-Tipz)
+1. ℹ️ Assigned issue [#25](https://github.com/SorobanCrashLab/soroban-crashlab/issues/25) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
