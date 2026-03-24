@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/SealBid/SealBid/pull/5) in [SealBid/SealBid](https://github.com/SealBid/SealBid)
+1. 🗣 Commented on [#6](https://github.com/Akanimoh12/Stellar-Tipz/issues/6#issuecomment-4114144868) in [Akanimoh12/Stellar-Tipz](https://github.com/Akanimoh12/Stellar-Tipz)
 <!--END_SECTION:activity-->
 
 ---
