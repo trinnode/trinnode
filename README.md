@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#204](https://github.com/RevoraOrg/Revora-Contracts/pull/204) in [RevoraOrg/Revora-Contracts](https://github.com/RevoraOrg/Revora-Contracts)
+1. 🗣 Commented on [#65](https://github.com/StellarYield/StellarYield-Contracts/issues/65#issuecomment-4121601841) in [StellarYield/StellarYield-Contracts](https://github.com/StellarYield/StellarYield-Contracts)
 <!--END_SECTION:activity-->
 
 ---
