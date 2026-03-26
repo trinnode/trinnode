@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/SorobanCrashLab/soroban-crashlab/issues/10) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🗣 Commented on [#139](https://github.com/StellarYield/StellarYield-Contracts/pull/139#issuecomment-4132149324) in [StellarYield/StellarYield-Contracts](https://github.com/StellarYield/StellarYield-Contracts)
 <!--END_SECTION:activity-->
 
 ---
