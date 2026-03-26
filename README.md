@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/StellarYield/StellarYield-Contracts/pull/139#issuecomment-4132149324) in [StellarYield/StellarYield-Contracts](https://github.com/StellarYield/StellarYield-Contracts)
+1. 🗣 Commented on [#50](https://github.com/StellaBridge/Bridge-Watch/pull/50#issuecomment-4134188412) in [StellaBridge/Bridge-Watch](https://github.com/StellaBridge/Bridge-Watch)
 <!--END_SECTION:activity-->
 
 ---
