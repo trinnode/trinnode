@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/StellaBridge/Bridge-Watch/pull/50#issuecomment-4134188412) in [StellaBridge/Bridge-Watch](https://github.com/StellaBridge/Bridge-Watch)
+1. 🗣 Commented on [#117](https://github.com/Akanimoh12/Stellar-Tipz/issues/117#issuecomment-4137354011) in [Akanimoh12/Stellar-Tipz](https://github.com/Akanimoh12/Stellar-Tipz)
 <!--END_SECTION:activity-->
 
 ---
