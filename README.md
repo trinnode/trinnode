@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com/SoroScan/soroscan/issues/229#issuecomment-4148001046) in [SoroScan/soroscan](https://github.com/SoroScan/soroscan)
+1. 🎉 Merged PR [#128](https://github.com/OlaGreat/NovaSupport/pull/128) in [OlaGreat/NovaSupport](https://github.com/OlaGreat/NovaSupport)
 <!--END_SECTION:activity-->
 
 ---
