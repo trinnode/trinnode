@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/OlaGreat/NovaSupport/pull/128) in [OlaGreat/NovaSupport](https://github.com/OlaGreat/NovaSupport)
+1. ℹ️ Assigned issue [#261](https://github.com/SorobanCrashLab/soroban-crashlab/issues/261) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
