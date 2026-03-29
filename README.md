@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#82](https://github.com/SorobanCrashLab/soroban-crashlab/issues/82) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🎉 Merged PR [#75](https://github.com/Space-Nebula/stellar-nebula-nomad/pull/75) in [Space-Nebula/stellar-nebula-nomad](https://github.com/Space-Nebula/stellar-nebula-nomad)
 <!--END_SECTION:activity-->
 
 ---
