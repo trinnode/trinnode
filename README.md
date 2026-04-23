@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#489](https://github.com/SorobanCrashLab/soroban-crashlab/issues/489) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🔒 Closed issue [#472](https://github.com/SorobanCrashLab/soroban-crashlab/issues/472) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
