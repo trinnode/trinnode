@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#478](https://github.com/MetroLogic/fluxapay/pull/478) in [MetroLogic/fluxapay](https://github.com/MetroLogic/fluxapay)
+1. 🔒 Closed issue [#474](https://github.com/SorobanCrashLab/soroban-crashlab/issues/474) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
