@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#360](https://github.com/crackedstudio/tikka/pull/360) in [crackedstudio/tikka](https://github.com/crackedstudio/tikka)
+1. 💪 Opened PR [#478](https://github.com/MetroLogic/fluxapay/pull/478) in [MetroLogic/fluxapay](https://github.com/MetroLogic/fluxapay)
 <!--END_SECTION:activity-->
 
 ---
