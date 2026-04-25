@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#562](https://github.com/OtowoOrg/Stellar-K8s/pull/562) in [OtowoOrg/Stellar-K8s](https://github.com/OtowoOrg/Stellar-K8s)
+1. 🗣 Commented on [#312](https://github.com/nebgov/nebgov/issues/312#issuecomment-4319631755) in [nebgov/nebgov](https://github.com/nebgov/nebgov)
 <!--END_SECTION:activity-->
 
 ---
