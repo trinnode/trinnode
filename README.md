@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/nebgov/nebgov/issues/312#issuecomment-4319631755) in [nebgov/nebgov](https://github.com/nebgov/nebgov)
+1. 🔒 Closed issue [#494](https://github.com/SorobanCrashLab/soroban-crashlab/issues/494) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
