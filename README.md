@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#494](https://github.com/SorobanCrashLab/soroban-crashlab/issues/494) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🎉 Merged PR [#281](https://github.com/Navin-xmr/navin-contracts/pull/281) in [Navin-xmr/navin-contracts](https://github.com/Navin-xmr/navin-contracts)
 <!--END_SECTION:activity-->
 
 ---
