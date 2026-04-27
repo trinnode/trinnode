@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com/Bonizozo/stellar-tipjar-frontend/issues/371#issuecomment-4327225592) in [Bonizozo/stellar-tipjar-frontend](https://github.com/Bonizozo/stellar-tipjar-frontend)
+1. 🔒 Closed issue [#386](https://github.com/SorobanCrashLab/soroban-crashlab/issues/386) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
