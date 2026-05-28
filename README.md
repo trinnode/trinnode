@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#503](https://github.com/MentorsMind/MentorsMind-Contract/pull/503) in [MentorsMind/MentorsMind-Contract](https://github.com/MentorsMind/MentorsMind-Contract)
+1. 🔒 Closed issue [#620](https://github.com/SorobanCrashLab/soroban-crashlab/issues/620) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
