@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#513](https://github.com/stellarmarket-labs/stellar-market/pull/513) in [stellarmarket-labs/stellar-market](https://github.com/stellarmarket-labs/stellar-market)
+1. ℹ️ Assigned issue [#640](https://github.com/SorobanCrashLab/soroban-crashlab/issues/640) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
