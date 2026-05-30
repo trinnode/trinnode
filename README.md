@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#568](https://github.com/nebgov/nebgov/pull/568) in [nebgov/nebgov](https://github.com/nebgov/nebgov)
+1. ℹ️ Assigned issue [#669](https://github.com/SorobanCrashLab/soroban-crashlab/issues/669) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
