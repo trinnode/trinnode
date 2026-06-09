@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#681](https://github.com/SorobanCrashLab/soroban-crashlab/issues/681) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🚀 Published release [NoteFlex v4](https://github.com/trinnode/NoteFlex/releases/tag/v4) in [trinnode/NoteFlex](https://github.com/trinnode/NoteFlex)
 <!--END_SECTION:activity-->
 
 ---
