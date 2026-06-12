@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/trinnode/NoteFlex/pull/2) in [trinnode/NoteFlex](https://github.com/trinnode/NoteFlex)
+1. 🚀 Published release [Navy Professional UI Revamp](https://github.com/SorobanCrashLab/soroban-crashlab/releases/tag/v0.2.0) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
