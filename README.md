@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/trinnode/Scripts/pull/1) in [trinnode/Scripts](https://github.com/trinnode/Scripts)
+1. 🎉 Merged PR [#2](https://github.com/trinnode/NoteFlex/pull/2) in [trinnode/NoteFlex](https://github.com/trinnode/NoteFlex)
 <!--END_SECTION:activity-->
 
 ---
