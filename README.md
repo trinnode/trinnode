@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Navy Professional UI Revamp](https://github.com/SorobanCrashLab/soroban-crashlab/releases/tag/v0.2.0) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🎉 Merged PR [#4](https://github.com/trinnode/veridaq-official/pull/4) in [trinnode/veridaq-official](https://github.com/trinnode/veridaq-official)
 <!--END_SECTION:activity-->
 
 ---
