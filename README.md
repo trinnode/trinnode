@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/trinnode/veridaq-official/pull/6) in [trinnode/veridaq-official](https://github.com/trinnode/veridaq-official)
+1. 🎉 Merged PR [#2](https://github.com/trinnode/batchCraft/pull/2) in [trinnode/batchCraft](https://github.com/trinnode/batchCraft)
 <!--END_SECTION:activity-->
 
 ---
