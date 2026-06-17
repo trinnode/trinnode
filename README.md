@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/trinnode/batchCraft/pull/3) in [trinnode/batchCraft](https://github.com/trinnode/batchCraft)
+1. 🗣 Commented on [#240](https://github.com/Quid-proquo/Quid/issues/240#issuecomment-4726993617) in [Quid-proquo/Quid](https://github.com/Quid-proquo/Quid)
 <!--END_SECTION:activity-->
 
 ---
