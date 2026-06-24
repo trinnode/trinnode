@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/Quid-proquo/Quid/issues/240#issuecomment-4726993617) in [Quid-proquo/Quid](https://github.com/Quid-proquo/Quid)
+1. 🔒 Closed issue [#843](https://github.com/SorobanCrashLab/soroban-crashlab/issues/843) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
