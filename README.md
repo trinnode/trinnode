@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#273](https://github.com/Navin-xmr/navin-backend/pull/273) in [Navin-xmr/navin-backend](https://github.com/Navin-xmr/navin-backend)
+1. 🎉 Merged PR [#955](https://github.com/OtowoOrg/Stellar-K8s/pull/955) in [OtowoOrg/Stellar-K8s](https://github.com/OtowoOrg/Stellar-K8s)
 <!--END_SECTION:activity-->
 
 ---
