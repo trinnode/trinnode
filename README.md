@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#955](https://github.com/OtowoOrg/Stellar-K8s/pull/955) in [OtowoOrg/Stellar-K8s](https://github.com/OtowoOrg/Stellar-K8s)
+1. ℹ️ Assigned issue [#889](https://github.com/SorobanCrashLab/soroban-crashlab/issues/889) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
