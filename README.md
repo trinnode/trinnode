@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1230](https://github.com/SorobanCrashLab/soroban-crashlab/pull/1230) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🗣 Commented on [#188](https://github.com/JointSave-org/Joint_Save/issues/188#issuecomment-5036960450) in [JointSave-org/Joint_Save](https://github.com/JointSave-org/Joint_Save)
 <!--END_SECTION:activity-->
 
 ---
