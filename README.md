@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#846](https://github.com/StellaBridge/Bridge-Watch/pull/846) in [StellaBridge/Bridge-Watch](https://github.com/StellaBridge/Bridge-Watch)
+1. 🎉 Merged PR [#845](https://github.com/StellaBridge/Bridge-Watch/pull/845) in [StellaBridge/Bridge-Watch](https://github.com/StellaBridge/Bridge-Watch)
 <!--END_SECTION:activity-->
 
 ---
