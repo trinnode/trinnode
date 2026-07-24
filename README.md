@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1100](https://github.com/Akanimoh12/Stellar-Tipz/pull/1100) in [Akanimoh12/Stellar-Tipz](https://github.com/Akanimoh12/Stellar-Tipz)
+1. 🔒 Closed issue [#965](https://github.com/SorobanCrashLab/soroban-crashlab/issues/965) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
