@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1166](https://github.com/OtowoOrg/Stellar-K8s/pull/1166) in [OtowoOrg/Stellar-K8s](https://github.com/OtowoOrg/Stellar-K8s)
+1. 🗣 Commented on [#516](https://github.com/CoralSwap-Finance/coralswap-sdk/pull/516#issuecomment-5085913832) in [CoralSwap-Finance/coralswap-sdk](https://github.com/CoralSwap-Finance/coralswap-sdk)
 <!--END_SECTION:activity-->
 
 ---
