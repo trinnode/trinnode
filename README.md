@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#516](https://github.com/CoralSwap-Finance/coralswap-sdk/pull/516#issuecomment-5085913832) in [CoralSwap-Finance/coralswap-sdk](https://github.com/CoralSwap-Finance/coralswap-sdk)
+1. ℹ️ Assigned issue [#1131](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1131) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
