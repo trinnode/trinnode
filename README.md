@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1384](https://github.com/SoroScan/soroscan/pull/1384) in [SoroScan/soroscan](https://github.com/SoroScan/soroscan)
+1. 🔒 Closed issue [#1393](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1393) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
