@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1393](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1393) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🎉 Merged PR [#588](https://github.com/Ada-Girly881/AutoMint/pull/588) in [Ada-Girly881/AutoMint](https://github.com/Ada-Girly881/AutoMint)
 <!--END_SECTION:activity-->
 
 ---
