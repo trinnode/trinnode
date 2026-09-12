@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1544](https://github.com/SorobanCrashLab/soroban-crashlab/pull/1544) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 💪 Opened PR [#69](https://github.com/NovaFest-Labs/NovaEvents-api/pull/69) in [NovaFest-Labs/NovaEvents-api](https://github.com/NovaFest-Labs/NovaEvents-api)
 <!--END_SECTION:activity-->
 
 ---
