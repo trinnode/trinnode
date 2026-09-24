@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1679](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1679) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 💪 Opened PR [#843](https://github.com/OpenLedger-Foundation/Kora-Frontend/pull/843) in [OpenLedger-Foundation/Kora-Frontend](https://github.com/OpenLedger-Foundation/Kora-Frontend)
 <!--END_SECTION:activity-->
 
 ---
