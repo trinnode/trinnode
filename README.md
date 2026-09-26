@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1324](https://github.com/StellaBridge/Bridge-Watch/issues/1324#issuecomment-5847300224) in [StellaBridge/Bridge-Watch](https://github.com/StellaBridge/Bridge-Watch)
+1. 🔒 Closed issue [#1561](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1561) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
