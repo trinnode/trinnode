@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1576](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1576) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🎉 Merged PR [#1](https://github.com/FEDSEC-ng/CYPHRA-LTD/pull/1) in [FEDSEC-ng/CYPHRA-LTD](https://github.com/FEDSEC-ng/CYPHRA-LTD)
 <!--END_SECTION:activity-->
 
 ---
