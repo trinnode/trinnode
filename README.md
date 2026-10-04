@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1552](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1552) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🚀 Published release [vidFlow v2.3](https://github.com/trinnode/Scripts/releases/tag/v2.3) in [trinnode/Scripts](https://github.com/trinnode/Scripts)
 <!--END_SECTION:activity-->
 
 ---
