@@ -1,22 +1,127 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Smart+Contract+Auditor+%26+Web3+Engineer;Securing+Onchain+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Smart+Contract+Engineer+%26+Security+Researcher;Zero-Knowledge+%26+Privacy+Primitives;Full-Stack+Web3+%E2%80%94+shipped%2C+tested%2C+audited)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=trinnode&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+# Isah Dauda
+
+**Smart Contract Engineer · Security Researcher · Full-Stack Web3 Developer**
+
+I design, build and audit onchain systems that have to hold up under adversarial conditions —
+DeFi protocols, zero-knowledge privacy primitives, and production products with real users.
+
+[![Followers](https://img.shields.io/github/followers/trinnode?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white)](https://github.com/trinnode?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=trinnode&label=Profile%20Views&color=58A6FF&style=for-the-badge)](https://github.com/trinnode)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koinated@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_trinnex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinnex)
 
 </div>
 
 ---
 
-## About Me
+## At a Glance
 
-Security focused smart contract developer and auditor with hands on experience across DeFi protocol design, vulnerability research, and full stack Web3 development. I write gas efficient Solidity, stress test contracts in Foundry, and ship production grade code that holds up under adversarial conditions.
+|  |  |
+| :-- | :-- |
+| **Focus** | Smart contract engineering · protocol design · security research · ZK privacy |
+| **Chains shipped on** | Ethereum · Base · Hedera · Bitcoin / Stacks · Starknet · Midnight · Somnia · Lisk L2 |
+| **Languages** | Solidity · TypeScript · Cairo · Clarity · Compact · Python · Kotlin |
+| **Original repositories** | **55+** — every project below is mine, not forked or contributed |
+| **Live deployments** | **24** product builds shipped to production URLs |
+| **Education** | Web3bridge Cohort XIII · Cybersecurity Science, Federal University of Technology Minna |
+| **Status** | Open to audit engagements, protocol development, and security consulting |
 
-Web3bridge Cohort XIII graduate. Currently exploring zero knowledge proofs, MEV protection strategies, and advanced DeFi mechanisms.
+---
 
-Open to audit engagements, protocol development, and security consulting.
+## Core Competencies
 
-📬 [koinated@gmail.com](mailto:koinated@gmail.com) · [@_trinnex](https://twitter.com/_trinnex) · [LinkedIn](https://linkedin.com/in/trinnex)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Smart Contracts**
+- Solidity 0.8 · Foundry · Hardhat
+- EIP-2535 Diamonds & upgradeable proxies
+- ERC-4337 account abstraction
+- HTS / HCS (Hedera), Clarity, Cairo, Compact
+- Gas optimisation & storage packing
+
+</td>
+<td width="50%" valign="top">
+
+**Security & Auditing**
+- Threat modelling per external function
+- Foundry fuzz + invariant testing
+- Slither · Aderyn · Echidna · Mythril
+- Manual review against the SWC registry
+- Reentrancy, oracle & access-control analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Zero Knowledge & Privacy**
+- SnarkJS / Groth16 proofs
+- Cairo circuits · Pedersen commitments
+- FHE with Fhenix (CoFHE)
+- Selective disclosure & onchain verification
+
+</td>
+<td width="50%" valign="top">
+
+**Full-Stack Product**
+- Next.js · React 19 · TypeScript · Tailwind
+- Prisma · PostgreSQL · Node.js
+- wagmi · viem · RainbowKit wallet flows
+- Docker · CI/CD · Vercel & Railway
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Work
+
+> Personal projects I designed, built and shipped end to end. No forks, no contributed PRs.
+
+### Zero-Knowledge & Privacy
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **[VERIDAQ](https://github.com/trinnode/veridaq-official)** · [live](https://veridaq-official.vercel.app) | Zero-knowledge academic credential verification. Universities issue on their own backend; employers verify claims like *"CGPA above 3.5"* without ever seeing student data. A single 32-byte commitment touches Base L2. | Base · SnarkJS · Next.js · TypeScript |
+| **[ClearScope](https://github.com/trinnode/clearscope)** | Compliance proofs without disclosure on Midnight Network — holder wallet, verifier dashboard, issuer portal, governance registry, bearer-session auth and ZK eligibility checks for age, KYC and jurisdiction. Apache-2.0, CI-gated. | Midnight · Compact · TypeScript |
+| **[StealthBTC](https://github.com/trinnode/StealthBTC)** | Privacy-first Bitcoin liquid staking on Starknet. Deposit BTC, earn Babylon yield, withdraw to any address unlinked from the deposit using ZK proofs and Pedersen commitments. | Starknet · Cairo · React |
+| **[SealBid](https://github.com/trinnode/Seal_Bid)** | Private sealed-bid auction on Base. Bids stay encrypted in flight with Fhenix FHE; the contract resolves the highest bid without revealing anyone's amount. | Base · Fhenix CoFHE · Solidity · wagmi |
+
+### DeFi & Protocol Engineering
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **[AfriHealth Ledger](https://github.com/trinnode/AfriHealthv2)** · [live](https://afri-healthv2-frontend-9tth.vercel.app) | Hedera-native healthcare and insurance platform: patient-controlled consent, itemized billing with AI policy checks, and an on-ledger community insurance pool. Modular EIP-2535 Diamond with Consent, Billing, InsurancePool and Token facets. | Hedera · Solidity · HTS · Diamond |
+| **[CPPay](https://github.com/trinnode/CP-Pay-SC)** | Non-custodial account-abstraction wallet on Lisk L2 — gasless one-tap payments via session keys, social recovery with guardians, on-chain swaps, EOA import. Diamond standard + ERC-4337, 100% test coverage. | Lisk L2 · ERC-4337 · Diamond · Solidity |
+| **[SomiARB](https://github.com/trinnode/SomiARB)** · [live](https://somiarb.vercel.app) | Reactive cross-DEX arbitrage vault on Somnia. Data Streams push price gaps to the vault in milliseconds instead of polling cycles — real-time strategy, not near-real-time. | Somnia · Solidity · React |
+| **[Fixpoint](https://github.com/trinnode/fixPoint)** · [live](https://fix-point-two.vercel.app) | USD-priced escrow on Hedera. Invoice in dollars, settle in HBAR at a live Pyth rate, mint an HTS receipt, land every step on an HCS audit trail. 43 contract tests, MIT licensed. | Hedera · Pyth · HTS · HCS |
+| **[BitGlyph](https://github.com/trinnode/BitGlyph)** · [live](https://bit-glyph.vercel.app) | Living generative-art NFTs on Stacks that evolve as collectors charge them with real Bitcoin (sBTC); every evolution state is stored on-chain and rendered live with p5.js. | Stacks · Clarity · sBTC · p5.js |
+| **[Tribute](https://github.com/trinnode/Tribute)** | Programmable patronage on Bitcoin — Clarity contracts, a Plasmo browser extension and a creator dashboard for recurring, relationship-aware support. | Bitcoin · Clarity · Plasmo |
+
+### Full-Stack Products
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **[Votara](https://github.com/trinnode/votara)** · [live](https://votarahq.vercel.app) | Multi-tenant voting platform for contests — live leaderboards, contestant profiles, 3D tilt UI and Flutterwave OAuth 2.0 payments. | Next.js 16 · Prisma · PostgreSQL · Flutterwave |
+| **[Anglican Schools](https://github.com/trinnode/anglican-schools)** · [live](https://anglican-schools.vercel.app) | Production multi-branch school management for the Nigerian system — token-based staff access across 11 roles, drag-and-drop report-card builder, fees, waivers and a full audit trail. | Next.js 16 · React 19 · Prisma · shadcn/ui |
+| **[Sentinel](https://github.com/trinnode/Sentinel)** | Enterprise validator monitoring that moves past reactive alerts — peer-to-peer cross-checks between nodes filter false positives before they ever page on-call. | Node.js · React · PostgreSQL · Docker |
+| **[NoteFlex](https://github.com/trinnode/NoteFlex)** | Android floating notepad that stays on top of every other app — multiple tabs, drag, resize, collapse and autosave. Sideloadable via release APK. | Kotlin · Android |
+
+### Security Research & Tooling
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **[Phishing Domain Detection](https://github.com/trinnode/phishing-detection)** | Research framework comparing Random Forest vs XGBoost over lexical and structural URL features. Flask REST API plus a full training pipeline. FUT Minna chapter-4 implementation. | Python · scikit-learn · Flask |
+| **[BExtDetect](https://github.com/trinnode/BExtDetect)** | Chrome-extension malware scanner — static manifest and code analysis (permissions, suspicious patterns, entropy/obfuscation) fused with a sandboxed headless-browser run into a single risk score. | Python · Node.js · Chromium sandbox |
+| **[Disinformation Detection](https://github.com/trinnode/Social-Media-Disinformation-Detection)** | Multimodal fake-post detector — ResNet + ELA for tampered images, DistilBERT for text credibility, fused into one prediction. | Python · PyTorch · Transformers |
 
 ---
 
@@ -24,62 +129,69 @@ Open to audit engagements, protocol development, and security consulting.
 
 <div align="center">
 
-**Smart Contracts & Blockchain**
+**Smart Contracts & Chains**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=base&logoColor=white)
+![Hedera](https://img.shields.io/badge/Hedera-222222?style=for-the-badge&logo=hedera&logoColor=white)
+![Stacks](https://img.shields.io/badge/Stacks-5546FF?style=for-the-badge&logo=stacks&logoColor=white)
+![Starknet](https://img.shields.io/badge/Starknet-0C0C4F?style=for-the-badge&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logoColor=white)
 
 **Security & Audit Tooling**
 
 ![Slither](https://img.shields.io/badge/Slither-FF6B6B?style=for-the-badge&logoColor=white)
-![Mythril](https://img.shields.io/badge/Mythril-4B0082?style=for-the-badge&logoColor=white)
-![Echidna](https://img.shields.io/badge/Echidna-00CED1?style=for-the-badge&logoColor=white)
 ![Aderyn](https://img.shields.io/badge/Aderyn-8B5CF6?style=for-the-badge&logoColor=white)
+![Echidna](https://img.shields.io/badge/Echidna-00CED1?style=for-the-badge&logoColor=white)
+![Mythril](https://img.shields.io/badge/Mythril-4B0082?style=for-the-badge&logoColor=white)
+![SnarkJS](https://img.shields.io/badge/SnarkJS-6E56CF?style=for-the-badge&logoColor=white)
 
-**Languages, Frameworks & Tools**
+**Languages, Frameworks & Tooling**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trinnode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=trinnode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%" />
 <img src="https://streak-stats.demolab.com?user=trinnode&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="49%" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinnode&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=trinnode" alt="Top Languages" width="42%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=trinnode&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
+</div>
+
+### Contribution Flow
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=trinnode&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/trinnode)
+
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinnode&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=trinnode" alt="Top Languages" width="40%" />
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![MessageOnChain](https://github-readme-stats.vercel.app/api/pin/?username=trinnode&repo=MessageOnChain&theme=github_dark&hide_border=true)](https://github.com/trinnode/MessageOnChain)
-[![onChain-Greetings](https://github-readme-stats.vercel.app/api/pin/?username=trinnode&repo=onChain-Greetings&theme=github_dark&hide_border=true)](https://github.com/trinnode/onChain-Greetings)
+![Snake animation](https://raw.githubusercontent.com/trinnode/trinnode/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -93,21 +205,17 @@ Open to audit engagements, protocol development, and security consulting.
 
 ---
 
-## Connect
+## Let's Build Something
+
+I take on smart contract audits, protocol engineering and security review work. If you have a
+protocol that needs hardening, a ZK primitive that needs shipping, or an idea that needs the
+whole stack, reach out.
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_trinnex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinnex)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trinnode)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koinated@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/trinnode/trinnode/output/github-contribution-grid-snake-dark.svg)
+[![Email](https://img.shields.io/badge/koinated@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koinated@gmail.com)
+[![X](https://img.shields.io/badge/@_trinnex-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_trinnex)
+[![LinkedIn](https://img.shields.io/badge/in/trinnex-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trinnex)
+[![GitHub](https://img.shields.io/badge/trinnode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trinnode)
 
 </div>
