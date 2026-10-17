@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Smart+Contract+Engineer+%26+Security+Researcher;Zero-Knowledge+%26+Privacy+Primitives;Full-Stack+Web3+%E2%80%94+shipped%2C+tested%2C+audited)](https://git.io/typing-svg)
 
-# Isah Dauda
+
 
 **Smart Contract Engineer · Security Researcher · Full-Stack Web3 Developer**
 
