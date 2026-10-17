@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#327](https://github.com/parkerwinner/kor-AssetForge/issues/327#issuecomment-6223693890) in [parkerwinner/kor-AssetForge](https://github.com/parkerwinner/kor-AssetForge)
+1. 🔒 Closed issue [#1847](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1847) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
