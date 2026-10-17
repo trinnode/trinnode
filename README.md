@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1845](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1845) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🗣 Commented on [#327](https://github.com/parkerwinner/kor-AssetForge/issues/327#issuecomment-6223693890) in [parkerwinner/kor-AssetForge](https://github.com/parkerwinner/kor-AssetForge)
 <!--END_SECTION:activity-->
 
 ---
