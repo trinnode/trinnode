@@ -88,7 +88,7 @@ Open to audit engagements, protocol development, and security consulting.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1648](https://github.com/Junirezz/YieldVault-RWA/pull/1648#issuecomment-6235062770) in [Junirezz/YieldVault-RWA](https://github.com/Junirezz/YieldVault-RWA)
+1. ℹ️ Assigned issue [#1816](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1816) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
