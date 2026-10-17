@@ -4,8 +4,6 @@
 
 
 
-**Smart Contract Engineer · Security Researcher · Full-Stack Web3 Developer**
-
 I design, build and audit onchain systems that have to hold up under adversarial conditions —
 DeFi protocols, zero-knowledge privacy primitives, and production products with real users.
 
