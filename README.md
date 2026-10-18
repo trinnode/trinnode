@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1648](https://github.com/Junirezz/YieldVault-RWA/pull/1648) in [Junirezz/YieldVault-RWA](https://github.com/Junirezz/YieldVault-RWA)
+1. 🗣 Commented on [#1649](https://github.com/SoroScan/soroscan/issues/1649#issuecomment-6254127089) in [SoroScan/soroscan](https://github.com/SoroScan/soroscan)
 <!--END_SECTION:activity-->
 
 ---
