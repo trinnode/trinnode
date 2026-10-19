@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1649](https://github.com/SoroScan/soroscan/issues/1649#issuecomment-6254127089) in [SoroScan/soroscan](https://github.com/SoroScan/soroscan)
+1. 🗣 Commented on [#682](https://github.com/Stellar-TrustBridge/trustbridge-action/issues/682#issuecomment-6261801916) in [Stellar-TrustBridge/trustbridge-action](https://github.com/Stellar-TrustBridge/trustbridge-action)
 <!--END_SECTION:activity-->
 
 ---
