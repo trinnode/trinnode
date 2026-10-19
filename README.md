@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#682](https://github.com/Stellar-TrustBridge/trustbridge-action/issues/682#issuecomment-6261801916) in [Stellar-TrustBridge/trustbridge-action](https://github.com/Stellar-TrustBridge/trustbridge-action)
+1. 🗣 Commented on [#924](https://github.com/Navin-xmr/navin-backend/issues/924#issuecomment-6275724080) in [Navin-xmr/navin-backend](https://github.com/Navin-xmr/navin-backend)
 <!--END_SECTION:activity-->
 
 ---
