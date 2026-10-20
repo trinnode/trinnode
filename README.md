@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#924](https://github.com/Navin-xmr/navin-backend/issues/924#issuecomment-6275724080) in [Navin-xmr/navin-backend](https://github.com/Navin-xmr/navin-backend)
+1. 🗣 Commented on [#949](https://github.com/Navin-xmr/navin-backend/pull/949#issuecomment-6276319690) in [Navin-xmr/navin-backend](https://github.com/Navin-xmr/navin-backend)
 <!--END_SECTION:activity-->
 
 ---
