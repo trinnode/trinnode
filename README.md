@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/Strea-mora/Streamora/pull/11) in [Strea-mora/Streamora](https://github.com/Strea-mora/Streamora)
+1. 🎉 Merged PR [#11](https://github.com/Strea-mora/Streamora/pull/11) in [Strea-mora/Streamora](https://github.com/Strea-mora/Streamora)
 <!--END_SECTION:activity-->
 
 ---
