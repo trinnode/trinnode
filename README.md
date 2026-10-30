@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1810](https://github.com/SorobanCrashLab/soroban-crashlab/issues/1810) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 💪 Opened PR [#11](https://github.com/Strea-mora/Streamora/pull/11) in [Strea-mora/Streamora](https://github.com/Strea-mora/Streamora)
 <!--END_SECTION:activity-->
 
 ---
