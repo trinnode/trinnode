@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Strea-mora/Streamora/pull/11) in [Strea-mora/Streamora](https://github.com/Strea-mora/Streamora)
+1. 💪 Opened PR [#1](https://github.com/official-veridaq/veridaqHQ/pull/1) in [official-veridaq/veridaqHQ](https://github.com/official-veridaq/veridaqHQ)
 <!--END_SECTION:activity-->
 
 ---
