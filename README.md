@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/official-veridaq/veridaqHQ/pull/2) in [official-veridaq/veridaqHQ](https://github.com/official-veridaq/veridaqHQ)
+1. 🎉 Merged PR [#15](https://github.com/official-veridaq/veridaqHQ/pull/15) in [official-veridaq/veridaqHQ](https://github.com/official-veridaq/veridaqHQ)
 <!--END_SECTION:activity-->
 
 ---
