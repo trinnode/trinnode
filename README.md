@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/official-veridaq/veridaqHQ/issues/3#issuecomment-6742723529) in [official-veridaq/veridaqHQ](https://github.com/official-veridaq/veridaqHQ)
+1. ℹ️ Labeled issue [#2295](https://github.com/SorobanCrashLab/soroban-crashlab/issues/2295) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
