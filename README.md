@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2211](https://github.com/SorobanCrashLab/soroban-crashlab/issues/2211) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🗣 Commented on [#2](https://github.com/trinnode/Stellar-K8s/pull/2#issuecomment-7070282960) in [trinnode/Stellar-K8s](https://github.com/trinnode/Stellar-K8s)
 <!--END_SECTION:activity-->
 
 ---
