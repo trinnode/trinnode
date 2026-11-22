@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/trinnode/soroscan/pull/3#issuecomment-7071036291) in [trinnode/soroscan](https://github.com/trinnode/soroscan)
+1. 🔒 Closed issue [#2270](https://github.com/SorobanCrashLab/soroban-crashlab/issues/2270) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
