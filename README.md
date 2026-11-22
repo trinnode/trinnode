@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/trinnode/Stellar-K8s/pull/2#issuecomment-7070282960) in [trinnode/Stellar-K8s](https://github.com/trinnode/Stellar-K8s)
+1. 🗣 Commented on [#3](https://github.com/trinnode/soroscan/pull/3#issuecomment-7071036291) in [trinnode/soroscan](https://github.com/trinnode/soroscan)
 <!--END_SECTION:activity-->
 
 ---
