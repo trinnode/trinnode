@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2260](https://github.com/SorobanCrashLab/soroban-crashlab/issues/2260) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🎉 Merged PR [#1100](https://github.com/Navin-xmr/navin-backend/pull/1100) in [Navin-xmr/navin-backend](https://github.com/Navin-xmr/navin-backend)
 <!--END_SECTION:activity-->
 
 ---
