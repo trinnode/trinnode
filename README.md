@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2189](https://github.com/SorobanCrashLab/soroban-crashlab/pull/2189) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🔒 Closed issue [#2260](https://github.com/SorobanCrashLab/soroban-crashlab/issues/2260) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
 <!--END_SECTION:activity-->
 
 ---
