@@ -172,7 +172,7 @@ DeFi protocols, zero-knowledge privacy primitives, and production products with 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2209](https://github.com/SorobanCrashLab/soroban-crashlab/issues/2209) in [SorobanCrashLab/soroban-crashlab](https://github.com/SorobanCrashLab/soroban-crashlab)
+1. 🎉 Merged PR [#1774](https://github.com/Junirezz/YieldVault-RWA/pull/1774) in [Junirezz/YieldVault-RWA](https://github.com/Junirezz/YieldVault-RWA)
 <!--END_SECTION:activity-->
 
 ---
